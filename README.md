@@ -98,9 +98,4 @@ The results of the classification are visualized for both models (Random Forest 
 - **Random Forest Classifier**: Shows how well the Random Forest model performed on the test set.
 - **Logistic Regression**: Displays the performance of the Logistic Regression model on the same test set.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-
-You can simply copy and paste this into your **README.md** file in your GitHub repository.
