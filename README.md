@@ -96,6 +96,6 @@ The results of the classification are visualized for both models (Random Forest 
 ## Results
 
 - **Random Forest Classifier**: Shows how well the Random Forest model performed on the test set.
-- **Logistic Regression**: Displays the performance of the Logistic Regression model on the same test set.
+- **Logistic Regression**: Displays the performance of the Logistic Regression model on the same test set..
 
 
